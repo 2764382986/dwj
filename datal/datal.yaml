@@ -1,0 +1,7 @@
+#数据集划分
+train: E:/FYWL/datal/train/images
+val: E:/FYWL/datal/val/images
+# 类别名称
+nc: 1
+names:
+  0: fy
